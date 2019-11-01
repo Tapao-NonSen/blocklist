@@ -1087,7 +1087,6 @@
 0.0.0.0 neatmovies.com
 0.0.0.0 pornorama.com
 0.0.0.0 divinefeet.com
-0.0.0.0 xnxx.com
 0.0.0.0 milfporn.com
 0.0.0.0 jizzle.com
 0.0.0.0 porn.sc
@@ -16600,7 +16599,6 @@
 0.0.0.0 neatmovies.com
 0.0.0.0 pornorama.com
 0.0.0.0 divinefeet.com
-0.0.0.0 xnxx.com
 0.0.0.0 milfporn.com
 0.0.0.0 jizzle.com
 0.0.0.0 porn.sc
@@ -39875,7 +39873,6 @@ zumobi.com
 0.0.0.0 neatmovies.com
 0.0.0.0 pornorama.com
 0.0.0.0 divinefeet.com
-0.0.0.0 xnxx.com
 0.0.0.0 milfporn.com
 0.0.0.0 jizzle.com
 0.0.0.0 porn.sc

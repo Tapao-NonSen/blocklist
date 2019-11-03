@@ -12,7 +12,8 @@ Ads Server Block: https://raw.githubusercontent.com/EnergizedProtection/block/ma
 Ads Block: https://hosts-file.net/ad_servers.txt
 
 # How to install?
-1. copy the raw url of blocklist `https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt` `https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.txt` `https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt`
+1. copy the raw url of blocklist 
+`https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt` `https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.txt` `https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt`
 
 2. open your pi hole admin panal
 

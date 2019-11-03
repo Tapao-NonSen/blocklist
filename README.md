@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
 
 **Website**
 
-admin panal -> settings -> blocklist then click save and update
+admin panal -> settings -> blocklist then click `save and update`
 
 
 **Commands line**

@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
 
 2. open your pi hole admin panal
 
-3.click settings -> Blocklist
+3. click settings -> Blocklist
 
 4. Paste the raw url to the input box then click save and update
 

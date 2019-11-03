@@ -21,11 +21,15 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.tx
 https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
 ```
 
-2. open your pi hole admin panal
+2. open your pi hole admin panal -> click settings -> Blocklist
 
-3. click settings -> Blocklist
+3. Paste the raw url to the input box then click save and update
 
-4. Paste the raw url to the input box then click save and update
+**How to update?**
+Just wait for the update notify and go to admin panal -> settings -> blocklist then click save and update
+
+**Commands line**
+open you terminal then put `pihole -g` for update
 
 # Get some update list notify?
 just join my discord server and get some notify when list update

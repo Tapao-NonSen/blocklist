@@ -26,9 +26,12 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
 3. Paste the raw url to the input box then click save and update
 
 
-**How to update?**
+# How to update?
+
+**Website**
 
 Just wait for the update notify and go to admin panal -> settings -> blocklist then click save and update
+
 
 **Commands line**
 

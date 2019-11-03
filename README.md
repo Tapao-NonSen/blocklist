@@ -5,11 +5,14 @@ Blocklist: porn, ads, youtube ads, malware, tracking, ads server, and much more
 
 if this list blocklist block some service please let me know just open the issuse
 
-# Unadded Blocklist
+# Recommend Blocklist
+This is list add cant make them with my own 
 
 Ads Server Block: https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts.txt
 
 Ads Block: https://hosts-file.net/ad_servers.txt
+
+Youtube Ads Block: https://github.com/kboghdady/youTube_ads_4_pi-hole
 
 # How to install?
 1. copy the raw url of blocklist 

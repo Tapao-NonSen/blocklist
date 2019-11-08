@@ -49,7 +49,7 @@ just join my discord server and get some notify when list update
 # Want to help me to make this list?
 Just join the discord server and contact me!
 
-# Tips Make It Keep It Update!
+# Keep Them Update!
 [Patreon](https://www.patreon.com/outapzaza)
 
 [Paypal](paypal.me/outapzaza)

@@ -22,6 +22,8 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt
 https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.txt 
 
 https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
+
+https://raw.githubusercontent.com/outapzaza/blocklist/master/regex.txt
 ```
 
 2. open your pi hole admin panal -> click settings -> Blocklist

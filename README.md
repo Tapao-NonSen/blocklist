@@ -46,7 +46,7 @@ open you terminal then put `pihole -g` for update
 # Get some update list notify?
 just join my discord server and get some notify when list update
 
-[Discord Invite](https://discord.gg/sSQxVAe)
+[Discord Invite](https://discord.gg/AVNY5mW)
 
 # Want to help me to make this list?
 Just join the discord server and contact me!

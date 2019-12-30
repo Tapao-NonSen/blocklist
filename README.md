@@ -51,7 +51,9 @@ Pi-Hole Bot is licensed under the terms of [Creative Commons Attribution-NonComm
 
 The CC-BY-NC-SA-4.0 allows you to:
 
+
  Share -- copy and redistribute the material in any medium or format
+ 
  Adapt -- remix, transform, and build upon the material
 Under the following terms:
 

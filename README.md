@@ -45,19 +45,3 @@ open you terminal then put `pihole -g` for update
 # Pi-Hole Bot
 it can help you about your pihole data to show everywhere but in discord and control your pihole to start or stop ads blocking
 [Get it](https://discordapp.com/oauth2/authorize?client_id=660710417286430740&scope=bot&permissions=8) [Vote](https://top.gg/bot/660710417286430740/vote)
-
-# License
-Pi-Hole Bot is licensed under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/ChristopherBThai/Discord-OwO-Bot/blob/master/LICENSE) ("CC-BY-NC-SA-4.0"). Commercial use is not allowed under this license. This includes any kind of revenue made with or based upon the software, even donations.
-
-The CC-BY-NC-SA-4.0 allows you to:
-
-
- Share -- copy and redistribute the material in any medium or format
- 
- Adapt -- remix, transform, and build upon the material
-Under the following terms:
-
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-NonCommercial — You may not use the material for commercial purposes.
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-More information can be found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).

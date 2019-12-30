@@ -42,16 +42,20 @@ admin panal -> settings -> blocklist then click `save and update`
 
 open you terminal then put `pihole -g` for update
 
+# Pi-Hole Bot
+it can help you about your pihole data to show everywhere but in discord and control your pihole to start or stop ads blocking
+[Get it](https://discordapp.com/oauth2/authorize?client_id=660710417286430740&scope=bot&permissions=8) [Vote](https://top.gg/bot/660710417286430740/vote)
 
-# Get some update list notify?
-just join my discord server and get some notify when list update
+# License
+Pi-Hole Bot is licensed under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/ChristopherBThai/Discord-OwO-Bot/blob/master/LICENSE) ("CC-BY-NC-SA-4.0"). Commercial use is not allowed under this license. This includes any kind of revenue made with or based upon the software, even donations.
 
-[Discord Invite](https://discord.gg/AVNY5mW)
+The CC-BY-NC-SA-4.0 allows you to:
 
-# Want to help me to make this list?
-Just join the discord server and contact me!
+ Share -- copy and redistribute the material in any medium or format
+ Adapt -- remix, transform, and build upon the material
+Under the following terms:
 
-# Keep Them Update!
-[Patreon](https://www.patreon.com/outapzaza)
-
-[Paypal](paypal.me/outapzaza)
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+More information can be found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).

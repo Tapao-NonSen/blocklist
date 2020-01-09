@@ -757,7 +757,7 @@
 0.0.0.0 usahud.com
 0.0.0.0 skandar.ir
 0.0.0.0 luxbet.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 hoosheparsi.ir
 0.0.0.0 bravefrontierglobal.blogspot.com
 0.0.0.0 5ok.com.ru
@@ -776,7 +776,7 @@
 0.0.0.0 downloadhi.ir
 0.0.0.0 allcigs.com
 0.0.0.0 xostbaku.ru
-0.0.0.0 rootech.ir
+
 0.0.0.0 androidrevolution.org
 0.0.0.0 hahasforhoohas.com
 0.0.0.0 fanscloob.com
@@ -794,7 +794,7 @@
 0.0.0.0 asanfizika.blogspot.com
 0.0.0.0 questnutrition.com
 0.0.0.0 xn-xx.co
-0.0.0.0 iruni.ir
+
 0.0.0.0 real-madrid.ir
 0.0.0.0 cocopanda.dk
 0.0.0.0 shiayan.ir
@@ -865,21 +865,21 @@
 0.0.0.0 eeff.net
 0.0.0.0 rmsft.rozblog.com
 0.0.0.0 52kd.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 khabareruz.ir
 0.0.0.0 fararu.com
 0.0.0.0 asnafshomal.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 kalakamuz.ir
 0.0.0.0 reshoevn8r.com
 0.0.0.0 afkarnews.ir
 0.0.0.0 merrilledge.com
 0.0.0.0 emailaddresseslists.com
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 anipassion.com
 0.0.0.0 healthproductsforyou.com
 0.0.0.0 atzuche.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 whoer.net
 0.0.0.0 wordsearchplanet.info
 0.0.0.0 pedal.ir
@@ -965,7 +965,7 @@
 0.0.0.0 ineedfree.com
 0.0.0.0 pedal.ir
 0.0.0.0 checkesnfree.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 zachys.com
 0.0.0.0 inside-galaxy.blogspot.com
 0.0.0.0 pokupay.by
@@ -979,7 +979,7 @@
 0.0.0.0 cqrujia.com
 0.0.0.0 art-ideas.ir
 0.0.0.0 ilpotereoctopus.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 topgames.ir
 0.0.0.0 tcf.com
 0.0.0.0 covanta.com
@@ -1007,11 +1007,11 @@
 0.0.0.0 allgameonline.net
 0.0.0.0 bancsabadell.com
 0.0.0.0 stuartweitzman.ca
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 asnafshomal.com
 0.0.0.0 haftrah.com
 0.0.0.0 dajizx.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 wenbita.net
 0.0.0.0 dajinzx.com
 0.0.0.0 daqinzx.com
@@ -1034,7 +1034,7 @@
 0.0.0.0 abshop.com.ua
 0.0.0.0 windowscenter.org
 0.0.0.0 hepan.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 ip-api.com
 0.0.0.0 zarabanebourse.ir
 0.0.0.0 par30dl.com
@@ -1112,22 +1112,22 @@
 0.0.0.0 ebonytube.com
 0.0.0.0 gonzo-movies.com
 0.0.0.0 dlove-music.rozblog.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 straitstimes.com
 0.0.0.0 whatismybrowser.com
 0.0.0.0 blueblog.ir
 0.0.0.0 portmiamiwebcam.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 bankvarzesh.com
-0.0.0.0 hoosheparsi.ir
+
+
 0.0.0.0 bia4music.com
 0.0.0.0 farmville2-games.com
 0.0.0.0 phonerated.com
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 sexxxx.asia
 0.0.0.0 p2pchange.is
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 par30dl.com
 0.0.0.0 uptv.tv
 0.0.0.0 investopedia.com
@@ -1201,7 +1201,7 @@
 0.0.0.0 zzlt.cn
 0.0.0.0 mydiyclub.com
 0.0.0.0 kalakamuz.ir
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 digicircle.com
 0.0.0.0 taomashen.com
 0.0.0.0 mhuai.com
@@ -1278,7 +1278,7 @@
 0.0.0.0 sms4send.altervista.org
 0.0.0.0 foxtrot.com.ua
 0.0.0.0 bollywoodkart.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 blueblog.ir
 0.0.0.0 smartmobilephonesolutions.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
@@ -1287,7 +1287,7 @@
 0.0.0.0 2cat.org
 0.0.0.0 check2ip.com
 0.0.0.0 buhgalter911.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 utopia-game.com
 0.0.0.0 wisgoon.com
 0.0.0.0 rachelschultz.com
@@ -1296,7 +1296,7 @@
 0.0.0.0 buxirani.com
 0.0.0.0 jahannews.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 edu4java.com
 0.0.0.0 newsiranian.ir
 0.0.0.0 f-oloom7-8.rozblog.com
@@ -1312,9 +1312,9 @@
 0.0.0.0 bangaltech.blogspot.com
 0.0.0.0 manupatrafast.com
 0.0.0.0 aalaponbd.blogspot.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 daganzx.com
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 pnu_ac.r98.ir
 0.0.0.0 levme.com
 0.0.0.0 pingpangwang.com
@@ -1327,13 +1327,13 @@
 0.0.0.0 lethalperformance.com
 0.0.0.0 politicalraid.com
 0.0.0.0 pard.is
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 normalite.ir
 0.0.0.0 cheap-phones.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
 0.0.0.0 infozed.blogspot.com
-0.0.0.0 vaghayedaily.ir
-0.0.0.0 khabarduni.ir
+
+
 0.0.0.0 bia2mah.ir
 0.0.0.0 tvcenlinea.net
 0.0.0.0 advanced.name
@@ -1366,28 +1366,28 @@
 0.0.0.0 imageaf.com
 0.0.0.0 majazidonya.ir
 0.0.0.0 myactmusic.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 jasaantar.com
 0.0.0.0 downloadina.net
 0.0.0.0 aftabnews.ir
 0.0.0.0 hairburst.com
 0.0.0.0 mogharrabin.ir
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 butterfieldonline.ky
 0.0.0.0 521yw.com
 0.0.0.0 satellite-one.info
 0.0.0.0 i-love-roman.ir
 0.0.0.0 tag-fox.com
 0.0.0.0 mymerrill.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 pokupay.by
 0.0.0.0 pardad.ir
 0.0.0.0 navad.net
 0.0.0.0 topak.ir
 0.0.0.0 act-music.ir
 0.0.0.0 subtitleseek.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 cytbj.com
 0.0.0.0 onlinewatchmovies2k.com
 0.0.0.0 business-gazeta.ru
@@ -1395,7 +1395,7 @@
 0.0.0.0 shenbiana.com
 0.0.0.0 yiaia.com
 0.0.0.0 5798.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 anaface.ir
 0.0.0.0 homewp.ir
 0.0.0.0 hotels.com
@@ -1403,7 +1403,7 @@
 0.0.0.0 hoteles.com
 0.0.0.0 hotels.cn
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 mamisite.com
 0.0.0.0 campussutra.com
 0.0.0.0 littlegoa.com
@@ -1452,49 +1452,49 @@
 0.0.0.0 tehran98.com
 0.0.0.0 marugujarats.com
 0.0.0.0 roomertravel.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 planetavto.com.ua
 0.0.0.0 5ok.com.ua
 0.0.0.0 btstor.xyz
 0.0.0.0 learningtv.ir
 0.0.0.0 learningtv.ir
 0.0.0.0 karlkratz.de
-0.0.0.0 iruni.ir
+
 0.0.0.0 java67.blogspot.sg
 0.0.0.0 nvidiavga.com
-0.0.0.0 yaspsd.ir
-0.0.0.0 rootech.ir
+
+
 0.0.0.0 khabarfarsi.com
 0.0.0.0 shahrahnews.ir
 0.0.0.0 babyvote.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 ukcigs.co
 0.0.0.0 safelink-gta.blogspot.co.id
 0.0.0.0 knowyourstuff.org
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 leheiwang.com
 0.0.0.0 qiankoo.com
 0.0.0.0 bi-xenon.cn
 0.0.0.0 secunda.com.ua
 0.0.0.0 sandlife.com.cn
 0.0.0.0 imweile.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 fishing-sh.com
 0.0.0.0 giahyab.com
 0.0.0.0 zennioptical.com
 0.0.0.0 gigaom.com
 0.0.0.0 khabargozari.xyz
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 art-ideas.ir
 0.0.0.0 macsales.com
 0.0.0.0 gsnpakistan.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 naslemusic.com
 0.0.0.0 fancytext.blogspot.com
 0.0.0.0 heels.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 manupatra.in
 0.0.0.0 windowscenter.org
 0.0.0.0 tiket.com
@@ -1526,7 +1526,7 @@
 0.0.0.0 rrjewels.com
 0.0.0.0 ekhorshid.ir
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 patogh.rozblog.com
 0.0.0.0 mihanfal.com
 0.0.0.0 925.com.ua
@@ -1534,9 +1534,9 @@
 0.0.0.0 javlibraries.xyz
 0.0.0.0 chinagadgetsreviews.blogspot.com
 0.0.0.0 gone-ta-pott.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 itsatforum.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 safelink-gta.blogspot.com
 0.0.0.0 betseyjohnson.com
 0.0.0.0 youtubedownloaders.xyz
@@ -15291,7 +15291,7 @@
 0.0.0.0 trackitt.com
 0.0.0.0 haircolorsideas.com
 0.0.0.0 pastrychefonline.com
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 feedingbig.com
 0.0.0.0 damncoolpictures.com
 0.0.0.0 blackweightlosssuccess.com
@@ -16252,13 +16252,13 @@
 0.0.0.0 domananeve.ru
 0.0.0.0 otkritkiok.ru
 0.0.0.0 quickteller.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 bangaltech.blogspot.com
 0.0.0.0 webconversiononline.com
 0.0.0.0 shakeyourtentacles.com
 0.0.0.0 coolchura.blogspot.com
 0.0.0.0 newsiranian.ir
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 danchimviet.info
 0.0.0.0 hdmoviesfun.in
 0.0.0.0 52blackberry.com
@@ -16269,8 +16269,8 @@
 0.0.0.0 usahud.com
 0.0.0.0 skandar.ir
 0.0.0.0 luxbet.com
-0.0.0.0 yaspsd.ir
-0.0.0.0 hoosheparsi.ir
+
+
 0.0.0.0 bravefrontierglobal.blogspot.com
 0.0.0.0 5ok.com.ru
 0.0.0.0 jz100.com
@@ -16288,17 +16288,17 @@
 0.0.0.0 downloadhi.ir
 0.0.0.0 allcigs.com
 0.0.0.0 xostbaku.ru
-0.0.0.0 rootech.ir
+
 0.0.0.0 androidrevolution.org
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 fanscloob.com
 0.0.0.0 eazyshoppy.com
 0.0.0.0 onlinewatchmovies2k.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 williams-oliver.ru
 0.0.0.0 eldorado.com.ua
 0.0.0.0 jamiiyetubongo.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 khabarfarsi.com
 0.0.0.0 erokawas.xyz
 0.0.0.0 cs-kings.biz
@@ -16306,7 +16306,7 @@
 0.0.0.0 asanfizika.blogspot.com
 0.0.0.0 questnutrition.com
 0.0.0.0 xn-xx.co
-0.0.0.0 iruni.ir
+
 0.0.0.0 real-madrid.ir
 0.0.0.0 cocopanda.dk
 0.0.0.0 shiayan.ir
@@ -16324,7 +16324,7 @@
 0.0.0.0 radiojavanmusic.com
 0.0.0.0 pmo.rozblog.com
 0.0.0.0 nesaporn.xyz
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 lawrenceburgnow.com
 0.0.0.0 asandl.com
 0.0.0.0 philnewsdaily.com
@@ -16375,23 +16375,23 @@
 0.0.0.0 ourhf.com
 0.0.0.0 baozouribao.com
 0.0.0.0 eeff.net
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 52kd.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 khabareruz.ir
 0.0.0.0 fararu.com
 0.0.0.0 asnafshomal.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 kalakamuz.ir
 0.0.0.0 reshoevn8r.com
 0.0.0.0 afkarnews.ir
 0.0.0.0 merrilledge.com
 0.0.0.0 emailaddresseslists.com
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 anipassion.com
 0.0.0.0 healthproductsforyou.com
 0.0.0.0 atzuche.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 whoer.net
 0.0.0.0 wordsearchplanet.info
 0.0.0.0 pedal.ir
@@ -16477,21 +16477,21 @@
 0.0.0.0 ineedfree.com
 0.0.0.0 pedal.ir
 0.0.0.0 checkesnfree.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 zachys.com
 0.0.0.0 inside-galaxy.blogspot.com
 0.0.0.0 pokupay.by
 0.0.0.0 ladyzest.com
 0.0.0.0 khabarfarsi.com
 0.0.0.0 dafycredit.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 omen-good.ir
 0.0.0.0 activeconversion.com
 0.0.0.0 whatismyproxy.com
 0.0.0.0 cqrujia.com
 0.0.0.0 art-ideas.ir
 0.0.0.0 ilpotereoctopus.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 topgames.ir
 0.0.0.0 tcf.com
 0.0.0.0 covanta.com
@@ -16519,11 +16519,11 @@
 0.0.0.0 allgameonline.net
 0.0.0.0 bancsabadell.com
 0.0.0.0 stuartweitzman.ca
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 asnafshomal.com
 0.0.0.0 haftrah.com
 0.0.0.0 dajizx.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 wenbita.net
 0.0.0.0 dajinzx.com
 0.0.0.0 daqinzx.com
@@ -16532,7 +16532,7 @@
 0.0.0.0 wallpaperswide.ir
 0.0.0.0 ataland.com
 0.0.0.0 irgametech.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 dailypuzzleanswers.com
 0.0.0.0 etashee.com
 0.0.0.0 khabargozari.xyz
@@ -16546,7 +16546,7 @@
 0.0.0.0 abshop.com.ua
 0.0.0.0 windowscenter.org
 0.0.0.0 hepan.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 ip-api.com
 0.0.0.0 zarabanebourse.ir
 0.0.0.0 par30dl.com
@@ -16624,22 +16624,22 @@
 0.0.0.0 ebonytube.com
 0.0.0.0 gonzo-movies.com
 0.0.0.0 dlove-music.rozblog.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 straitstimes.com
 0.0.0.0 whatismybrowser.com
 0.0.0.0 blueblog.ir
 0.0.0.0 portmiamiwebcam.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 bankvarzesh.com
-0.0.0.0 hoosheparsi.ir
+
+
 0.0.0.0 bia4music.com
 0.0.0.0 farmville2-games.com
 0.0.0.0 phonerated.com
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 sexxxx.asia
 0.0.0.0 p2pchange.is
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 par30dl.com
 0.0.0.0 uptv.tv
 0.0.0.0 investopedia.com
@@ -16713,7 +16713,7 @@
 0.0.0.0 zzlt.cn
 0.0.0.0 mydiyclub.com
 0.0.0.0 kalakamuz.ir
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 digicircle.com
 0.0.0.0 taomashen.com
 0.0.0.0 mhuai.com
@@ -16790,7 +16790,7 @@
 0.0.0.0 sms4send.altervista.org
 0.0.0.0 foxtrot.com.ua
 0.0.0.0 bollywoodkart.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 blueblog.ir
 0.0.0.0 smartmobilephonesolutions.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
@@ -16799,7 +16799,7 @@
 0.0.0.0 2cat.org
 0.0.0.0 check2ip.com
 0.0.0.0 buhgalter911.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 utopia-game.com
 0.0.0.0 wisgoon.com
 0.0.0.0 rachelschultz.com
@@ -16808,7 +16808,7 @@
 0.0.0.0 buxirani.com
 0.0.0.0 jahannews.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 edu4java.com
 0.0.0.0 newsiranian.ir
 0.0.0.0 f-oloom7-8.rozblog.com
@@ -16824,9 +16824,9 @@
 0.0.0.0 bangaltech.blogspot.com
 0.0.0.0 manupatrafast.com
 0.0.0.0 aalaponbd.blogspot.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 daganzx.com
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 pnu_ac.r98.ir
 0.0.0.0 levme.com
 0.0.0.0 pingpangwang.com
@@ -16839,13 +16839,13 @@
 0.0.0.0 lethalperformance.com
 0.0.0.0 politicalraid.com
 0.0.0.0 pard.is
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 normalite.ir
 0.0.0.0 cheap-phones.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
 0.0.0.0 infozed.blogspot.com
-0.0.0.0 vaghayedaily.ir
-0.0.0.0 khabarduni.ir
+
+
 0.0.0.0 bia2mah.ir
 0.0.0.0 tvcenlinea.net
 0.0.0.0 advanced.name
@@ -16878,28 +16878,28 @@
 0.0.0.0 imageaf.com
 0.0.0.0 majazidonya.ir
 0.0.0.0 myactmusic.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 jasaantar.com
 0.0.0.0 downloadina.net
 0.0.0.0 aftabnews.ir
 0.0.0.0 hairburst.com
 0.0.0.0 mogharrabin.ir
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 butterfieldonline.ky
 0.0.0.0 521yw.com
 0.0.0.0 satellite-one.info
 0.0.0.0 i-love-roman.ir
 0.0.0.0 tag-fox.com
 0.0.0.0 mymerrill.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 pokupay.by
 0.0.0.0 pardad.ir
 0.0.0.0 navad.net
 0.0.0.0 topak.ir
 0.0.0.0 act-music.ir
 0.0.0.0 subtitleseek.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 cytbj.com
 0.0.0.0 onlinewatchmovies2k.com
 0.0.0.0 business-gazeta.ru
@@ -16907,7 +16907,7 @@
 0.0.0.0 shenbiana.com
 0.0.0.0 yiaia.com
 0.0.0.0 5798.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 anaface.ir
 0.0.0.0 homewp.ir
 0.0.0.0 hotels.com
@@ -16915,7 +16915,7 @@
 0.0.0.0 hoteles.com
 0.0.0.0 hotels.cn
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 mamisite.com
 0.0.0.0 campussutra.com
 0.0.0.0 littlegoa.com
@@ -16951,7 +16951,6 @@
 0.0.0.0 androidandme.com
 0.0.0.0 stagram.com
 0.0.0.0 tmonews.com
-0.0.0.0 bgr.com
 0.0.0.0 blackberry.com
 0.0.0.0 phonedog.com
 0.0.0.0 websta.me
@@ -16964,49 +16963,49 @@
 0.0.0.0 tehran98.com
 0.0.0.0 marugujarats.com
 0.0.0.0 roomertravel.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 planetavto.com.ua
 0.0.0.0 5ok.com.ua
 0.0.0.0 btstor.xyz
 0.0.0.0 learningtv.ir
 0.0.0.0 learningtv.ir
 0.0.0.0 karlkratz.de
-0.0.0.0 iruni.ir
+
 0.0.0.0 java67.blogspot.sg
 0.0.0.0 nvidiavga.com
-0.0.0.0 yaspsd.ir
-0.0.0.0 rootech.ir
+
+
 0.0.0.0 khabarfarsi.com
 0.0.0.0 shahrahnews.ir
 0.0.0.0 babyvote.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 ukcigs.co
 0.0.0.0 safelink-gta.blogspot.co.id
 0.0.0.0 knowyourstuff.org
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 leheiwang.com
 0.0.0.0 qiankoo.com
 0.0.0.0 bi-xenon.cn
 0.0.0.0 secunda.com.ua
 0.0.0.0 sandlife.com.cn
 0.0.0.0 imweile.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 fishing-sh.com
 0.0.0.0 giahyab.com
 0.0.0.0 zennioptical.com
 0.0.0.0 gigaom.com
 0.0.0.0 khabargozari.xyz
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 art-ideas.ir
 0.0.0.0 macsales.com
 0.0.0.0 gsnpakistan.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 naslemusic.com
 0.0.0.0 fancytext.blogspot.com
 0.0.0.0 heels.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 manupatra.in
 0.0.0.0 windowscenter.org
 0.0.0.0 tiket.com
@@ -17038,7 +17037,7 @@
 0.0.0.0 rrjewels.com
 0.0.0.0 ekhorshid.ir
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 patogh.rozblog.com
 0.0.0.0 mihanfal.com
 0.0.0.0 925.com.ua
@@ -17046,9 +17045,9 @@
 0.0.0.0 javlibraries.xyz
 0.0.0.0 chinagadgetsreviews.blogspot.com
 0.0.0.0 gone-ta-pott.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 itsatforum.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 safelink-gta.blogspot.com
 0.0.0.0 betseyjohnson.com
 0.0.0.0 youtubedownloaders.xyz
@@ -30803,7 +30802,7 @@
 0.0.0.0 trackitt.com
 0.0.0.0 haircolorsideas.com
 0.0.0.0 pastrychefonline.com
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 feedingbig.com
 0.0.0.0 damncoolpictures.com
 0.0.0.0 blackweightlosssuccess.com
@@ -35027,13 +35026,13 @@
 0.0.0.0 mundolego.com.br
 0.0.0.0 pokerstars2.hu.com
 0.0.0.0 freelancer.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 bangaltech.blogspot.com
 0.0.0.0 webconversiononline.com
 0.0.0.0 shakeyourtentacles.com
 0.0.0.0 coolchura.blogspot.com
 0.0.0.0 newsiranian.ir
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 danchimviet.info
 0.0.0.0 hdmoviesfun.in
 0.0.0.0 52blackberry.com
@@ -35044,8 +35043,8 @@
 0.0.0.0 usahud.com
 0.0.0.0 skandar.ir
 0.0.0.0 luxbet.com
-0.0.0.0 yaspsd.ir
-0.0.0.0 hoosheparsi.ir
+
+
 0.0.0.0 bravefrontierglobal.blogspot.com
 0.0.0.0 5ok.com.ru
 0.0.0.0 jz100.com
@@ -35063,17 +35062,17 @@
 0.0.0.0 downloadhi.ir
 0.0.0.0 allcigs.com
 0.0.0.0 xostbaku.ru
-0.0.0.0 rootech.ir
+
 0.0.0.0 androidrevolution.org
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 fanscloob.com
 0.0.0.0 eazyshoppy.com
 0.0.0.0 onlinewatchmovies2k.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 williams-oliver.ru
 0.0.0.0 eldorado.com.ua
 0.0.0.0 jamiiyetubongo.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 khabarfarsi.com
 0.0.0.0 erokawas.xyz
 0.0.0.0 cs-kings.biz
@@ -35081,7 +35080,7 @@
 0.0.0.0 asanfizika.blogspot.com
 0.0.0.0 questnutrition.com
 0.0.0.0 xn-xx.co
-0.0.0.0 iruni.ir
+
 0.0.0.0 real-madrid.ir
 0.0.0.0 cocopanda.dk
 0.0.0.0 shiayan.ir
@@ -35099,7 +35098,7 @@
 0.0.0.0 radiojavanmusic.com
 0.0.0.0 pmo.rozblog.com
 0.0.0.0 nesaporn.xyz
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 lawrenceburgnow.com
 0.0.0.0 asandl.com
 0.0.0.0 philnewsdaily.com
@@ -35150,23 +35149,23 @@
 0.0.0.0 ourhf.com
 0.0.0.0 baozouribao.com
 0.0.0.0 eeff.net
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 52kd.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 khabareruz.ir
 0.0.0.0 fararu.com
 0.0.0.0 asnafshomal.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 kalakamuz.ir
 0.0.0.0 reshoevn8r.com
 0.0.0.0 afkarnews.ir
 0.0.0.0 merrilledge.com
 0.0.0.0 emailaddresseslists.com
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 anipassion.com
 0.0.0.0 healthproductsforyou.com
 0.0.0.0 atzuche.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 whoer.net
 0.0.0.0 wordsearchplanet.info
 0.0.0.0 pedal.ir
@@ -35252,21 +35251,21 @@
 0.0.0.0 ineedfree.com
 0.0.0.0 pedal.ir
 0.0.0.0 checkesnfree.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 zachys.com
 0.0.0.0 inside-galaxy.blogspot.com
 0.0.0.0 pokupay.by
 0.0.0.0 ladyzest.com
 0.0.0.0 khabarfarsi.com
 0.0.0.0 dafycredit.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 omen-good.ir
 0.0.0.0 activeconversion.com
 0.0.0.0 whatismyproxy.com
 0.0.0.0 cqrujia.com
 0.0.0.0 art-ideas.ir
 0.0.0.0 ilpotereoctopus.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 topgames.ir
 0.0.0.0 tcf.com
 0.0.0.0 covanta.com
@@ -35294,11 +35293,11 @@
 0.0.0.0 allgameonline.net
 0.0.0.0 bancsabadell.com
 0.0.0.0 stuartweitzman.ca
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 asnafshomal.com
 0.0.0.0 haftrah.com
 0.0.0.0 dajizx.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 wenbita.net
 0.0.0.0 dajinzx.com
 0.0.0.0 daqinzx.com
@@ -35307,7 +35306,7 @@
 0.0.0.0 wallpaperswide.ir
 0.0.0.0 ataland.com
 0.0.0.0 irgametech.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 dailypuzzleanswers.com
 0.0.0.0 etashee.com
 0.0.0.0 khabargozari.xyz
@@ -35321,7 +35320,7 @@
 0.0.0.0 abshop.com.ua
 0.0.0.0 windowscenter.org
 0.0.0.0 hepan.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 ip-api.com
 0.0.0.0 zarabanebourse.ir
 0.0.0.0 par30dl.com
@@ -35399,22 +35398,22 @@
 0.0.0.0 ebonytube.com
 0.0.0.0 gonzo-movies.com
 0.0.0.0 dlove-music.rozblog.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 straitstimes.com
 0.0.0.0 whatismybrowser.com
 0.0.0.0 blueblog.ir
 0.0.0.0 portmiamiwebcam.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 bankvarzesh.com
-0.0.0.0 hoosheparsi.ir
+
+
 0.0.0.0 bia4music.com
 0.0.0.0 farmville2-games.com
 0.0.0.0 phonerated.com
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 sexxxx.asia
 0.0.0.0 p2pchange.is
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 par30dl.com
 0.0.0.0 uptv.tv
 0.0.0.0 investopedia.com
@@ -35488,7 +35487,7 @@
 0.0.0.0 zzlt.cn
 0.0.0.0 mydiyclub.com
 0.0.0.0 kalakamuz.ir
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 digicircle.com
 0.0.0.0 taomashen.com
 0.0.0.0 mhuai.com
@@ -35565,7 +35564,7 @@
 0.0.0.0 sms4send.altervista.org
 0.0.0.0 foxtrot.com.ua
 0.0.0.0 bollywoodkart.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 blueblog.ir
 0.0.0.0 smartmobilephonesolutions.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
@@ -35574,7 +35573,7 @@
 0.0.0.0 2cat.org
 0.0.0.0 check2ip.com
 0.0.0.0 buhgalter911.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 utopia-game.com
 0.0.0.0 wisgoon.com
 0.0.0.0 rachelschultz.com
@@ -35583,7 +35582,7 @@
 0.0.0.0 buxirani.com
 0.0.0.0 jahannews.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 edu4java.com
 0.0.0.0 newsiranian.ir
 0.0.0.0 f-oloom7-8.rozblog.com
@@ -35599,9 +35598,9 @@
 0.0.0.0 bangaltech.blogspot.com
 0.0.0.0 manupatrafast.com
 0.0.0.0 aalaponbd.blogspot.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 daganzx.com
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 pnu_ac.r98.ir
 0.0.0.0 levme.com
 0.0.0.0 pingpangwang.com
@@ -35614,13 +35613,13 @@
 0.0.0.0 lethalperformance.com
 0.0.0.0 politicalraid.com
 0.0.0.0 pard.is
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 normalite.ir
 0.0.0.0 cheap-phones.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
 0.0.0.0 infozed.blogspot.com
-0.0.0.0 vaghayedaily.ir
-0.0.0.0 khabarduni.ir
+
+
 0.0.0.0 bia2mah.ir
 0.0.0.0 tvcenlinea.net
 0.0.0.0 advanced.name
@@ -35653,28 +35652,28 @@
 0.0.0.0 imageaf.com
 0.0.0.0 majazidonya.ir
 0.0.0.0 myactmusic.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 jasaantar.com
 0.0.0.0 downloadina.net
 0.0.0.0 aftabnews.ir
 0.0.0.0 hairburst.com
 0.0.0.0 mogharrabin.ir
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 butterfieldonline.ky
 0.0.0.0 521yw.com
 0.0.0.0 satellite-one.info
 0.0.0.0 i-love-roman.ir
 0.0.0.0 tag-fox.com
 0.0.0.0 mymerrill.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 pokupay.by
 0.0.0.0 pardad.ir
 0.0.0.0 navad.net
 0.0.0.0 topak.ir
 0.0.0.0 act-music.ir
 0.0.0.0 subtitleseek.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 cytbj.com
 0.0.0.0 onlinewatchmovies2k.com
 0.0.0.0 business-gazeta.ru
@@ -35682,7 +35681,7 @@
 0.0.0.0 shenbiana.com
 0.0.0.0 yiaia.com
 0.0.0.0 5798.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 anaface.ir
 0.0.0.0 homewp.ir
 0.0.0.0 hotels.com
@@ -35690,7 +35689,7 @@
 0.0.0.0 hoteles.com
 0.0.0.0 hotels.cn
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 mamisite.com
 0.0.0.0 campussutra.com
 0.0.0.0 littlegoa.com
@@ -35739,49 +35738,49 @@
 0.0.0.0 tehran98.com
 0.0.0.0 marugujarats.com
 0.0.0.0 roomertravel.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 planetavto.com.ua
 0.0.0.0 5ok.com.ua
 0.0.0.0 btstor.xyz
 0.0.0.0 learningtv.ir
 0.0.0.0 learningtv.ir
 0.0.0.0 karlkratz.de
-0.0.0.0 iruni.ir
+
 0.0.0.0 java67.blogspot.sg
 0.0.0.0 nvidiavga.com
-0.0.0.0 yaspsd.ir
-0.0.0.0 rootech.ir
+
+
 0.0.0.0 khabarfarsi.com
 0.0.0.0 shahrahnews.ir
 0.0.0.0 babyvote.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 ukcigs.co
 0.0.0.0 safelink-gta.blogspot.co.id
 0.0.0.0 knowyourstuff.org
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 leheiwang.com
 0.0.0.0 qiankoo.com
 0.0.0.0 bi-xenon.cn
 0.0.0.0 secunda.com.ua
 0.0.0.0 sandlife.com.cn
 0.0.0.0 imweile.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 fishing-sh.com
 0.0.0.0 giahyab.com
 0.0.0.0 zennioptical.com
 0.0.0.0 gigaom.com
 0.0.0.0 khabargozari.xyz
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 art-ideas.ir
 0.0.0.0 macsales.com
 0.0.0.0 gsnpakistan.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 naslemusic.com
 0.0.0.0 fancytext.blogspot.com
 0.0.0.0 heels.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 manupatra.in
 0.0.0.0 windowscenter.org
 0.0.0.0 tiket.com
@@ -35813,7 +35812,7 @@
 0.0.0.0 rrjewels.com
 0.0.0.0 ekhorshid.ir
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 patogh.rozblog.com
 0.0.0.0 mihanfal.com
 0.0.0.0 925.com.ua
@@ -35821,9 +35820,9 @@
 0.0.0.0 javlibraries.xyz
 0.0.0.0 chinagadgetsreviews.blogspot.com
 0.0.0.0 gone-ta-pott.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 itsatforum.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 safelink-gta.blogspot.com
 0.0.0.0 betseyjohnson.com
 0.0.0.0 youtubedownloaders.xyz
@@ -49945,7 +49944,7 @@
 0.0.0.0 trackitt.com
 0.0.0.0 haircolorsideas.com
 0.0.0.0 pastrychefonline.com
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 feedingbig.com
 0.0.0.0 damncoolpictures.com
 0.0.0.0 blackweightlosssuccess.com
@@ -50906,13 +50905,13 @@
 0.0.0.0 domananeve.ru
 0.0.0.0 otkritkiok.ru
 0.0.0.0 quickteller.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 bangaltech.blogspot.com
 0.0.0.0 webconversiononline.com
 0.0.0.0 shakeyourtentacles.com
 0.0.0.0 coolchura.blogspot.com
 0.0.0.0 newsiranian.ir
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 danchimviet.info
 0.0.0.0 hdmoviesfun.in
 0.0.0.0 52blackberry.com
@@ -50923,8 +50922,8 @@
 0.0.0.0 usahud.com
 0.0.0.0 skandar.ir
 0.0.0.0 luxbet.com
-0.0.0.0 yaspsd.ir
-0.0.0.0 hoosheparsi.ir
+
+
 0.0.0.0 bravefrontierglobal.blogspot.com
 0.0.0.0 5ok.com.ru
 0.0.0.0 jz100.com
@@ -50942,17 +50941,17 @@
 0.0.0.0 downloadhi.ir
 0.0.0.0 allcigs.com
 0.0.0.0 xostbaku.ru
-0.0.0.0 rootech.ir
+
 0.0.0.0 androidrevolution.org
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 fanscloob.com
 0.0.0.0 eazyshoppy.com
 0.0.0.0 onlinewatchmovies2k.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 williams-oliver.ru
 0.0.0.0 eldorado.com.ua
 0.0.0.0 jamiiyetubongo.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 khabarfarsi.com
 0.0.0.0 erokawas.xyz
 0.0.0.0 cs-kings.biz
@@ -50960,7 +50959,7 @@
 0.0.0.0 asanfizika.blogspot.com
 0.0.0.0 questnutrition.com
 0.0.0.0 xn-xx.co
-0.0.0.0 iruni.ir
+
 0.0.0.0 real-madrid.ir
 0.0.0.0 cocopanda.dk
 0.0.0.0 shiayan.ir
@@ -50978,7 +50977,7 @@
 0.0.0.0 radiojavanmusic.com
 0.0.0.0 pmo.rozblog.com
 0.0.0.0 nesaporn.xyz
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 lawrenceburgnow.com
 0.0.0.0 asandl.com
 0.0.0.0 philnewsdaily.com
@@ -51029,23 +51028,23 @@
 0.0.0.0 ourhf.com
 0.0.0.0 baozouribao.com
 0.0.0.0 eeff.net
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 52kd.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 khabareruz.ir
 0.0.0.0 fararu.com
 0.0.0.0 asnafshomal.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 kalakamuz.ir
 0.0.0.0 reshoevn8r.com
 0.0.0.0 afkarnews.ir
 0.0.0.0 merrilledge.com
 0.0.0.0 emailaddresseslists.com
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 anipassion.com
 0.0.0.0 healthproductsforyou.com
 0.0.0.0 atzuche.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 whoer.net
 0.0.0.0 wordsearchplanet.info
 0.0.0.0 pedal.ir
@@ -51131,21 +51130,21 @@
 0.0.0.0 ineedfree.com
 0.0.0.0 pedal.ir
 0.0.0.0 checkesnfree.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 zachys.com
 0.0.0.0 inside-galaxy.blogspot.com
 0.0.0.0 pokupay.by
 0.0.0.0 ladyzest.com
 0.0.0.0 khabarfarsi.com
 0.0.0.0 dafycredit.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 omen-good.ir
 0.0.0.0 activeconversion.com
 0.0.0.0 whatismyproxy.com
 0.0.0.0 cqrujia.com
 0.0.0.0 art-ideas.ir
 0.0.0.0 ilpotereoctopus.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 topgames.ir
 0.0.0.0 tcf.com
 0.0.0.0 covanta.com
@@ -51173,11 +51172,11 @@
 0.0.0.0 allgameonline.net
 0.0.0.0 bancsabadell.com
 0.0.0.0 stuartweitzman.ca
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 asnafshomal.com
 0.0.0.0 haftrah.com
 0.0.0.0 dajizx.com
-0.0.0.0 hoosheparsi.ir
+
 0.0.0.0 wenbita.net
 0.0.0.0 dajinzx.com
 0.0.0.0 daqinzx.com
@@ -51186,7 +51185,7 @@
 0.0.0.0 wallpaperswide.ir
 0.0.0.0 ataland.com
 0.0.0.0 irgametech.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 dailypuzzleanswers.com
 0.0.0.0 etashee.com
 0.0.0.0 khabargozari.xyz
@@ -51200,7 +51199,7 @@
 0.0.0.0 abshop.com.ua
 0.0.0.0 windowscenter.org
 0.0.0.0 hepan.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 ip-api.com
 0.0.0.0 zarabanebourse.ir
 0.0.0.0 par30dl.com
@@ -51278,22 +51277,22 @@
 0.0.0.0 ebonytube.com
 0.0.0.0 gonzo-movies.com
 0.0.0.0 dlove-music.rozblog.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 straitstimes.com
 0.0.0.0 whatismybrowser.com
 0.0.0.0 blueblog.ir
 0.0.0.0 portmiamiwebcam.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 bankvarzesh.com
-0.0.0.0 hoosheparsi.ir
+
+
 0.0.0.0 bia4music.com
 0.0.0.0 farmville2-games.com
 0.0.0.0 phonerated.com
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 iruni.ir
+
 0.0.0.0 sexxxx.asia
 0.0.0.0 p2pchange.is
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 par30dl.com
 0.0.0.0 uptv.tv
 0.0.0.0 investopedia.com
@@ -51367,7 +51366,7 @@
 0.0.0.0 zzlt.cn
 0.0.0.0 mydiyclub.com
 0.0.0.0 kalakamuz.ir
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 digicircle.com
 0.0.0.0 taomashen.com
 0.0.0.0 mhuai.com
@@ -51444,7 +51443,7 @@
 0.0.0.0 sms4send.altervista.org
 0.0.0.0 foxtrot.com.ua
 0.0.0.0 bollywoodkart.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 blueblog.ir
 0.0.0.0 smartmobilephonesolutions.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
@@ -51453,7 +51452,7 @@
 0.0.0.0 2cat.org
 0.0.0.0 check2ip.com
 0.0.0.0 buhgalter911.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 utopia-game.com
 0.0.0.0 wisgoon.com
 0.0.0.0 rachelschultz.com
@@ -51462,7 +51461,7 @@
 0.0.0.0 buxirani.com
 0.0.0.0 jahannews.com
 0.0.0.0 boursenovin.ir
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 edu4java.com
 0.0.0.0 newsiranian.ir
 0.0.0.0 f-oloom7-8.rozblog.com
@@ -51478,9 +51477,9 @@
 0.0.0.0 bangaltech.blogspot.com
 0.0.0.0 manupatrafast.com
 0.0.0.0 aalaponbd.blogspot.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 daganzx.com
-0.0.0.0 hahasforhoohas.com
+
 0.0.0.0 pnu_ac.r98.ir
 0.0.0.0 levme.com
 0.0.0.0 pingpangwang.com
@@ -51493,13 +51492,13 @@
 0.0.0.0 lethalperformance.com
 0.0.0.0 politicalraid.com
 0.0.0.0 pard.is
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 normalite.ir
 0.0.0.0 cheap-phones.com
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
 0.0.0.0 infozed.blogspot.com
-0.0.0.0 vaghayedaily.ir
-0.0.0.0 khabarduni.ir
+
+
 0.0.0.0 bia2mah.ir
 0.0.0.0 tvcenlinea.net
 0.0.0.0 advanced.name
@@ -51532,28 +51531,28 @@
 0.0.0.0 imageaf.com
 0.0.0.0 majazidonya.ir
 0.0.0.0 myactmusic.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 jasaantar.com
 0.0.0.0 downloadina.net
 0.0.0.0 aftabnews.ir
 0.0.0.0 hairburst.com
 0.0.0.0 mogharrabin.ir
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 butterfieldonline.ky
 0.0.0.0 521yw.com
 0.0.0.0 satellite-one.info
 0.0.0.0 i-love-roman.ir
 0.0.0.0 tag-fox.com
 0.0.0.0 mymerrill.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 pokupay.by
 0.0.0.0 pardad.ir
 0.0.0.0 navad.net
 0.0.0.0 topak.ir
 0.0.0.0 act-music.ir
 0.0.0.0 subtitleseek.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 cytbj.com
 0.0.0.0 onlinewatchmovies2k.com
 0.0.0.0 business-gazeta.ru
@@ -51561,7 +51560,7 @@
 0.0.0.0 shenbiana.com
 0.0.0.0 yiaia.com
 0.0.0.0 5798.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 anaface.ir
 0.0.0.0 homewp.ir
 0.0.0.0 hotels.com
@@ -51569,7 +51568,7 @@
 0.0.0.0 hoteles.com
 0.0.0.0 hotels.cn
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 mamisite.com
 0.0.0.0 campussutra.com
 0.0.0.0 littlegoa.com
@@ -51618,49 +51617,49 @@
 0.0.0.0 tehran98.com
 0.0.0.0 marugujarats.com
 0.0.0.0 roomertravel.com
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 planetavto.com.ua
 0.0.0.0 5ok.com.ua
 0.0.0.0 btstor.xyz
 0.0.0.0 learningtv.ir
 0.0.0.0 learningtv.ir
 0.0.0.0 karlkratz.de
-0.0.0.0 iruni.ir
+
 0.0.0.0 java67.blogspot.sg
 0.0.0.0 nvidiavga.com
-0.0.0.0 yaspsd.ir
-0.0.0.0 rootech.ir
+
+
 0.0.0.0 khabarfarsi.com
 0.0.0.0 shahrahnews.ir
 0.0.0.0 babyvote.com
-0.0.0.0 6blog.ir
+
 0.0.0.0 ukcigs.co
 0.0.0.0 safelink-gta.blogspot.co.id
 0.0.0.0 knowyourstuff.org
-0.0.0.0 rmsft.rozblog.com
+
 0.0.0.0 leheiwang.com
 0.0.0.0 qiankoo.com
 0.0.0.0 bi-xenon.cn
 0.0.0.0 secunda.com.ua
 0.0.0.0 sandlife.com.cn
 0.0.0.0 imweile.com
-0.0.0.0 vaghayedaily.ir
+
 0.0.0.0 fishing-sh.com
 0.0.0.0 giahyab.com
 0.0.0.0 zennioptical.com
 0.0.0.0 gigaom.com
 0.0.0.0 khabargozari.xyz
-0.0.0.0 yaspsd.ir
+
 0.0.0.0 art-ideas.ir
 0.0.0.0 macsales.com
 0.0.0.0 gsnpakistan.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 reyaziat.mihanblog.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 naslemusic.com
 0.0.0.0 fancytext.blogspot.com
 0.0.0.0 heels.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 manupatra.in
 0.0.0.0 windowscenter.org
 0.0.0.0 tiket.com
@@ -51692,7 +51691,7 @@
 0.0.0.0 rrjewels.com
 0.0.0.0 ekhorshid.ir
 0.0.0.0 modemfiles.blogspot.com
-0.0.0.0 rootech.ir
+
 0.0.0.0 patogh.rozblog.com
 0.0.0.0 mihanfal.com
 0.0.0.0 925.com.ua
@@ -51700,9 +51699,9 @@
 0.0.0.0 javlibraries.xyz
 0.0.0.0 chinagadgetsreviews.blogspot.com
 0.0.0.0 gone-ta-pott.com
-0.0.0.0 bankvarzesh.com
+
 0.0.0.0 itsatforum.com
-0.0.0.0 khabarduni.ir
+
 0.0.0.0 safelink-gta.blogspot.com
 0.0.0.0 betseyjohnson.com
 0.0.0.0 youtubedownloaders.xyz

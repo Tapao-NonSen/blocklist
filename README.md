@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
 https://raw.githubusercontent.com/outapzaza/blocklist/master/regex.txt
 ```
 
-2. open your pi hole admin panal -> click settings -> Blocklist
+2. open your pi hole admin panel -> click settings -> Blocklist
 
 3. Paste the raw url to the input box then click save and update
 
@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/regex.txt
 
 **Website**
 
-admin panal -> settings -> blocklist then click `save and update`
+admin panel -> settings -> blocklist then click `save and update`
 
 
 **Commands line**

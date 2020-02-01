@@ -6510,7 +6510,6 @@
 0.0.0.0 giorgioarmanibeauty-usa.com
 0.0.0.0 giornalettismo.com
 0.0.0.0 gipfelbuch.ch
-0.0.0.0 giphy.com
 0.0.0.0 girabola.com
 0.0.0.0 girlcooksworld.com
 0.0.0.0 girlgames1.com

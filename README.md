@@ -5,6 +5,7 @@ Blocklist: porn, ads, youtube ads, malware, tracking, ads server, and much more
 
 if this list blocklist block some service please let me know just open the issuse
 
+### This code had been archived you can mega or pull request for edit it thank you :3
 # Recommend Blocklist
 This is list add cant make them with my own 
 

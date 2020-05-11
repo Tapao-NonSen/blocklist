@@ -42,7 +42,3 @@ admin panel -> settings -> blocklist then click `save and update`
 **Commands line**
 
 open you terminal then put `pihole -g` for update
-
-# Pi-Hole Bot
-it can help you about your pihole data to show everywhere but in discord and control your pihole to start or stop ads blocking
-[Get it](https://discordapp.com/oauth2/authorize?client_id=660710417286430740&scope=bot&permissions=8) | [Vote](https://top.gg/bot/660710417286430740/vote) | [Support Server](https://discord.gg/AVNY5mW)
